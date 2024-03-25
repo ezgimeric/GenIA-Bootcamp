@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Welcome section styles */
+#hosgeldiniz {
+    background-color: #d8d3be;
+    padding: 40px 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#hosgeldiniz h2 {
+    color: #5650ad;
+}
+
+#hosgeldiniz p {
+    margin: 20px 0;
+    text-align: center;
+}
+/* End of Welcome section styles */
+
+/* Planet section styles */
+#gezegenler article {
+    margin-bottom: 40px;
+}
+
+#gezegenler img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#gezegenler h3 {
+    color: #ff9900;
+    text-align: center;
+}
+
+#gezegenler p {
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+/* Spacecraft section styles */
+#uzay-araci-tasarimlari .uzay-araci {
+    background-color: #aca5d4;
+    color: #0c0a7a;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#uzay-araci-tasarimlari h3 {
+    color: #1f0c4d;
+}
+
+/* Space news section styles */
+#uzay-haberleri article {
+    background-color: #8eb38e;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#uzay-haberleri h3 {
+    color: #ff6666;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
